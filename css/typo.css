@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body{
+    font-family : "Poppins", sans-serif;
+}
+
+a{
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+   font-family: 'Amatic SC', cursive;
+   font-size: 60px;
+}
+
+h2{
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
+
+.head {
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+header{
+  background: white;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: flex-between;
+  flex-wrap: wrap;
+}
+
+
+
+p {
+font-size: 15px;
+margin-bottom: 1.15rem;
+text-align: center;
+font-family : "Poppins", sans-serif;
+
+}
+
+li {
+  font-size: 15px;
+  color: white;
+}
+
+img{
+  align: center;
+}
